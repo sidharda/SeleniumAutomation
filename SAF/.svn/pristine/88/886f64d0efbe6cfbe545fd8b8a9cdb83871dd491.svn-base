@@ -1,0 +1,24 @@
+#browser = Chrome, Firefox, IE, Safari
+browser=IE
+
+
+
+baseUrl=http://gmail.com
+
+
+implicitWait=30
+#Path File Directory
+htmlReportsFilePath=Reports/SAF-test-reports
+
+screenshotFilePath=
+
+log4jFilePath=
+
+suiteExcelFilePath=
+
+ModuleSuiteExcelFilePath=
+
+getTestDataInputFilePath =
+
+writeExcelReportsFilePath =
+

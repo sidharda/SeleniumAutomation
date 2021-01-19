@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test Suite" duration-ms="18549" started-at="2016-11-18T13:26:22Z" finished-at="2016-11-18T13:26:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18549" started-at="2016-11-18T13:26:22Z" finished-at="2016-11-18T13:26:40Z">
+      <class name="org.sensiple.com.module1.CreateNewUser">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="checkSuiteSkip" is-config="true" duration-ms="4709" started-at="2016-11-18T18:56:17Z" finished-at="2016-11-18T18:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="checkTestSkip" is-config="true" duration-ms="2" started-at="2016-11-18T18:56:22Z" finished-at="2016-11-18T18:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="6896" started-at="2016-11-18T18:56:22Z" data-provider="getTestData" finished-at="2016-11-18T18:56:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1283" started-at="2016-11-18T18:56:29Z" data-provider="getTestData" finished-at="2016-11-18T18:56:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1283" started-at="2016-11-18T18:56:30Z" data-provider="getTestData" finished-at="2016-11-18T18:56:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1258" started-at="2016-11-18T18:56:31Z" data-provider="getTestData" finished-at="2016-11-18T18:56:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1263" started-at="2016-11-18T18:56:32Z" data-provider="getTestData" finished-at="2016-11-18T18:56:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1250" started-at="2016-11-18T18:56:34Z" data-provider="getTestData" finished-at="2016-11-18T18:56:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1226" started-at="2016-11-18T18:56:35Z" data-provider="getTestData" finished-at="2016-11-18T18:56:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1211" started-at="2016-11-18T18:56:36Z" data-provider="getTestData" finished-at="2016-11-18T18:56:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1240" started-at="2016-11-18T18:56:37Z" data-provider="getTestData" finished-at="2016-11-18T18:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String)[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="createNewUser" duration-ms="1213" started-at="2016-11-18T18:56:39Z" data-provider="getTestData" finished-at="2016-11-18T18:56:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="reportTestResult" is-config="true" duration-ms="372" started-at="2016-11-18T18:56:40Z" finished-at="2016-11-18T18:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.sensiple.com.module1.CreateNewUser@5a61f5df]" name="tearDown" is-config="true" duration-ms="2313" started-at="2016-11-18T18:56:40Z" finished-at="2016-11-18T18:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.sensiple.com.module1.CreateNewUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Smoke Test Suite -->
+</testng-results>

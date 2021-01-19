@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7101" started-at="2016-08-08T08:11:12Z" finished-at="2016-08-08T08:11:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7101" started-at="2016-08-08T08:11:12Z" finished-at="2016-08-08T08:11:19Z">
+      <class name="org.sensiple.com.module.TestGmail">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.sensiple.com.module.TestGmail@614c5515]" name="setUp" is-config="true" duration-ms="6314" started-at="2016-08-08T13:41:06Z" finished-at="2016-08-08T13:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:org.sensiple.com.module.TestGmail@614c5515]" name="verifyHomepageTitle" duration-ms="5" started-at="2016-08-08T13:41:12Z" finished-at="2016-08-08T13:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="verifyUserLogin()[pri:0, instance:org.sensiple.com.module.TestGmail@614c5515]" name="verifyUserLogin" duration-ms="7075" started-at="2016-08-08T13:41:12Z" finished-at="2016-08-08T13:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.sensiple.com.module.TestGmail@614c5515]" name="tearDown" is-config="true" duration-ms="51" started-at="2016-08-08T13:41:19Z" finished-at="2016-08-08T13:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.sensiple.com.module.TestGmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

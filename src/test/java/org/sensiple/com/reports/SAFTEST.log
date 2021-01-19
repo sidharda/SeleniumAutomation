@@ -1,0 +1,1083 @@
+2016-08-17 14:06:31 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:06:31 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:06:31 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:06:42 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:06:43 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:06:48 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:06:52 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:06:52 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:06:53 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:06:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:06:53 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:06:54 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:06:55 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:06:55 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:06:56 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:06:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:06:56 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:06:57 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:06:59 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:06:59 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:06:59 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:06:59 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:07:00 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:07:00 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:07:01 ERROR CreateNewUser:84 - org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 185 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=42.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d14b3eeb-2c0b-4412-b6a6-a365fe3941c7
+2016-08-17 14:07:01 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:07:01 ERROR CreateNewUser:64 - org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=42.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d14b3eeb-2c0b-4412-b6a6-a365fe3941c7
+*** Element info: {Using=id, value=name_3_firstname}
+2016-08-17 14:07:01 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:07:01 ERROR CreateNewUser:64 - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:07:02 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:11:50 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:11:50 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:11:50 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:11:58 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:11:58 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:11:58 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:05 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:07 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:07 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:08 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:08 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:10 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:10 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:10 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:10 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:10 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:11 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:12 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:12 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:13 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:13 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:13 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:14 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:15 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:15 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:16 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:16 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:16 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:17 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:18 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:18 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:19 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:19 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:19 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:20 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:21 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:21 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:22 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:22 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:22 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:23 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:24 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:24 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:25 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:25 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:25 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:26 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:28 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:29 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:30 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:30 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:32 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:12:33 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:12:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:12:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:12:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:12:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:44:43 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:44:43 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:44:43 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:44:51 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:44:53 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:44:58 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:02 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:02 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:03 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:03 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:03 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:04 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:05 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:06 ERROR CreateNewUser:64 - org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 232 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=42.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 89a05e37-18f2-4ce8-a92c-4bebcece9f64
+*** Element info: {Using=id, value=name_3_firstname}
+2016-08-17 14:45:06 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:07 ERROR CreateNewUser:64 - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:08 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:09 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:10 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:11 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:12 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:13 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:14 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:15 ERROR NativeConstructorAccessorImpl:53 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'CP000443', ip: '192.168.12.133', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: driver.version: RemoteWebDriver
+2016-08-17 14:45:27 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:45:27 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:45:27 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:45:35 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:45:36 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:45:36 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:44 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:44 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:47 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:47 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:48 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:48 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:50 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:50 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:51 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:51 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:53 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:53 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:54 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:54 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:56 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:56 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:45:57 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:57 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:45:59 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:45:59 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:45:59 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:45:59 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:00 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:00 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:46:02 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:46:02 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:46:02 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:02 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:03 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:03 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:46:05 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:46:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:46:05 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:06 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:06 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:46:08 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:46:08 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:46:08 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:08 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:09 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:09 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:46:11 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:46:11 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:46:11 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:11 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:12 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:12 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:46:14 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:46:14 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:46:14 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:46:14 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:46:15 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:05 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:56:05 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:56:05 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:56:13 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:56:14 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:56:19 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:22 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:22 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:26 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:26 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:27 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:27 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:29 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:29 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:29 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:29 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:30 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:30 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:32 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:32 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:33 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:33 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:35 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:35 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:35 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:36 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:38 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:38 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:39 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:39 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:41 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:41 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:42 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:42 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:42 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:43 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:45 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:45 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:46 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:46 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:46 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:47 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:49 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:49 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:50 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:51 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:51 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:53 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:53 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:54 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:55 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 14:56:57 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 14:56:57 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 14:56:58 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:56:58 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 14:56:58 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 14:59:48 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-08-17 14:59:48 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-08-17 14:59:48 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Firefox
+2016-08-17 14:59:56 INFO  NativeConstructorAccessorImpl:95 - Firefox Browser Invoked
+2016-08-17 14:59:58 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-08-17 14:59:58 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:05 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:07 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:07 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:07 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:08 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:10 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:10 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:10 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:10 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:10 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:11 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:13 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:13 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:13 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:13 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:14 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:14 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:16 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:16 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:16 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:16 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:16 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:17 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:18 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:18 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:19 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:19 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:19 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:20 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:21 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:21 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:22 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:22 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:22 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:23 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:24 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:24 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:25 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:25 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:25 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:26 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:27 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:27 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:29 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:31 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:32 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-08-17 15:00:33 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-08-17 15:00:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-08-17 15:00:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-08-17 15:00:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-08-17 15:00:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:21:37 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 17:21:37 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 17:21:37 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 17:54:42 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 17:54:42 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 17:54:42 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 17:54:46 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2016-11-18 17:54:48 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-11-18 17:54:55 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:54:58 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:54:58 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:54:58 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:54:58 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:54:59 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:54:59 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:00 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:00 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:00 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:00 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:00 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:00 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:01 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:01 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:01 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:01 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:02 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:02 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:02 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:02 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:03 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:03 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:03 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:03 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:04 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:04 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:04 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:04 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:04 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:04 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:05 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:05 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:05 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:06 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:06 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:06 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:06 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:07 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:07 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:07 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:07 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:08 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:08 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:08 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:08 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:08 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:09 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:09 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:09 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:09 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:09 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:10 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:10 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 17:55:11 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 17:55:11 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 17:55:11 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 17:55:11 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 17:55:11 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:21 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 18:08:21 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 18:08:21 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 18:08:25 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2016-11-18 18:08:26 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-11-18 18:08:33 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:34 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:35 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:35 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:36 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:36 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:36 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:36 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:37 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:38 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:38 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:38 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:39 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:39 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:39 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:39 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:40 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:40 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:40 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:40 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:41 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:41 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:41 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:41 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:41 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:41 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:42 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:42 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:42 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:42 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:42 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:42 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:43 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:43 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:43 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:43 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:43 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:44 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:44 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:44 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:44 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:44 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:45 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:45 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:08:45 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:08:45 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:08:46 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:08:46 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:08:46 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:31 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 18:36:31 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 18:36:31 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 18:36:35 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2016-11-18 18:36:36 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-11-18 18:36:43 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:45 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:45 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:45 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:45 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:45 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:45 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:46 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:46 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:46 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:46 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:47 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:47 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:47 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:47 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:48 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:48 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:48 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:48 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:49 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:49 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:49 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:49 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:49 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:49 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:50 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:50 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:50 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:50 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:51 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:51 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:51 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:52 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:52 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:52 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:52 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:52 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:53 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:53 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:53 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:54 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:54 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:54 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:54 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:55 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:55 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:55 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:55 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:55 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:55 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:36:56 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:36:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:36:56 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:36:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:36:56 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:15 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 18:38:15 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 18:38:15 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 18:38:18 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2016-11-18 18:38:20 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-11-18 18:38:25 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:26 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:26 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:27 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:27 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:27 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:27 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:28 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:29 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:29 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:29 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:29 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:29 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:30 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:30 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:30 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:30 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:31 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:32 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:32 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:32 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:32 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:33 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:33 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:33 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:34 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:34 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:35 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:35 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:35 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:36 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:36 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:37 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:37 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:38:38 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:38:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:38:38 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:38:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:38:38 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:17 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2016-11-18 18:56:17 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2016-11-18 18:56:17 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2016-11-18 18:56:20 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2016-11-18 18:56:21 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2016-11-18 18:56:26 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:28 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:28 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:28 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:29 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:29 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:29 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:29 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:30 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:30 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:30 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:30 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:31 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:31 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:31 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:31 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:32 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:32 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:32 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:32 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:33 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:33 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:33 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:33 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:34 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:34 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:34 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:34 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:35 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:35 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:35 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:36 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:36 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:36 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:36 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:36 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:37 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:37 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:37 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:38 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:38 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:38 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:38 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:39 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:39 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2016-11-18 18:56:39 INFO  CreateNewUser:79 - Clicked On WebElement
+2016-11-18 18:56:39 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2016-11-18 18:56:40 INFO  CreateNewUser:58 - Entered Data in Input Field
+2016-11-18 18:56:40 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2016-11-18 18:56:40 INFO  CreateNewUser:58 - Entered Data in Input Field
+2020-12-28 13:41:45 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2020-12-28 13:41:45 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2020-12-28 13:41:45 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2020-12-28 13:41:49 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2020-12-28 13:44:35 INFO  NativeConstructorAccessorImpl:123 - Master Suite Excel FIle Loaded
+2020-12-28 13:44:35 INFO  NativeConstructorAccessorImpl:126 - Module1 Suite Excel FIle Loaded
+2020-12-28 13:44:35 INFO  NativeConstructorAccessorImpl:92 - Browser is : : Chrome
+2020-12-28 13:44:40 INFO  NativeConstructorAccessorImpl:100 - Chrome Browser Invoked
+2020-12-28 13:44:42 INFO  NativeConstructorAccessorImpl:114 - Window Maximized
+2020-12-28 13:44:48 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:48 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:48 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:48 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:48 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:48 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:50 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:50 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:50 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:50 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:50 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:51 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:51 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:51 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:51 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:51 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:51 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:51 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:52 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:52 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:52 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:52 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:52 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:52 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:53 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:53 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:53 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:53 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:53 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:53 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:53 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:54 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:54 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:54 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:54 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:54 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:54 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:55 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:55 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:55 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:55 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:55 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:55 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:56 INFO  NativeConstructorAccessorImpl:151 - Element Identified : : By.linkText: Registration
+2020-12-28 13:44:56 ERROR CreateNewUser:84 - java.lang.NullPointerException
+2020-12-28 13:44:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_firstname
+2020-12-28 13:44:56 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 13:44:56 INFO  NativeConstructorAccessorImpl:147 - Element Identified : : By.id: name_3_lastname
+2020-12-28 13:44:56 ERROR CreateNewUser:64 - java.lang.NullPointerException
+2020-12-28 14:31:18 INFO  NativeConstructorAccessorImpl:131 - Master Suite Excel FIle Loaded
+2020-12-28 14:31:18 INFO  NativeConstructorAccessorImpl:134 - Module1 Suite Excel FIle Loaded
+2020-12-28 14:31:18 INFO  NativeConstructorAccessorImpl:138 - Open Span Suite Excel FIle Loaded
+2020-12-28 14:31:18 INFO  NativeConstructorAccessorImpl:94 - Browser is : : Chrome
+2020-12-28 14:31:24 INFO  NativeConstructorAccessorImpl:102 - Chrome Browser Invoked
+2020-12-28 14:31:27 INFO  NativeConstructorAccessorImpl:116 - Window Maximized
+2020-12-28 14:31:28 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:29 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:31:29 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:30 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:31:30 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:33 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:33 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:33 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:33 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:33 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:31:34 ERROR VerifyUserLogin:64 - java.lang.NullPointerException
+2020-12-28 14:31:34 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:31:34 ERROR VerifyUserLogin:84 - java.lang.NullPointerException
+2020-12-28 14:32:10 INFO  NativeConstructorAccessorImpl:131 - Master Suite Excel FIle Loaded
+2020-12-28 14:32:10 INFO  NativeConstructorAccessorImpl:134 - Module1 Suite Excel FIle Loaded
+2020-12-28 14:32:10 INFO  NativeConstructorAccessorImpl:138 - Open Span Suite Excel FIle Loaded
+2020-12-28 14:32:10 INFO  NativeConstructorAccessorImpl:94 - Browser is : : Chrome
+2020-12-28 14:32:17 INFO  NativeConstructorAccessorImpl:102 - Chrome Browser Invoked
+2020-12-28 14:32:19 INFO  NativeConstructorAccessorImpl:116 - Window Maximized
+2020-12-28 14:32:21 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:22 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:22 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:22 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:22 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:24 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:25 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:26 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:26 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:26 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:26 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:28 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:29 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:29 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:29 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:30 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:30 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:31 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:32 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:33 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:33 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:33 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:35 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:35 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:36 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:36 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:37 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:37 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:38 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:38 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:39 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:39 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:40 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:40 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:41 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:41 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:42 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:42 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:43 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:43 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:44 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:44 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:45 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:45 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:46 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:46 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:47 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:48 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:48 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:48 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:49 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:49 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:50 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:32:51 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_name
+2020-12-28 14:32:52 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:52 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: user_pass
+2020-12-28 14:32:52 INFO  VerifyUserLogin:58 - Entered Data in Input Field
+2020-12-28 14:32:52 INFO  NativeConstructorAccessorImpl:160 - Element Identified : : By.id: login_button
+2020-12-28 14:32:54 INFO  VerifyUserLogin:79 - Clicked On WebElement
+2020-12-28 14:55:00 INFO  NativeConstructorAccessorImpl:131 - Master Suite Excel FIle Loaded
+2020-12-28 14:55:00 INFO  NativeConstructorAccessorImpl:134 - Module1 Suite Excel FIle Loaded
+2020-12-28 14:55:00 INFO  NativeConstructorAccessorImpl:138 - Open Span Suite Excel FIle Loaded
+2020-12-28 14:55:00 INFO  NativeConstructorAccessorImpl:94 - Browser is : : Chrome
+2020-12-28 14:55:06 INFO  NativeConstructorAccessorImpl:102 - Chrome Browser Invoked
+2020-12-28 14:55:09 INFO  NativeConstructorAccessorImpl:116 - Window Maximized
+2020-12-28 14:55:11 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:11 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:11 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:12 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:12 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:14 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:14 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:14 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:14 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:16 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:16 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:16 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:16 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:16 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:16 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:17 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:17 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:17 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:18 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:18 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:18 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:19 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:19 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:20 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:20 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:20 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:20 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:22 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:22 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:22 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:22 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:22 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:22 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:22 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:22 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:23 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:24 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:24 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:24 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:24 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:24 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:25 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:25 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:25 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:25 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:27 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:27 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:27 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:27 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:27 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:27 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:28 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:28 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:28 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:29 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:29 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:29 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:29 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:29 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:31 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:31 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:31 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:31 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:32 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:32 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:32 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:32 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:33 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:33 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:33 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:33 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:33 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:34 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:34 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:34 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:35 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:35 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:36 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:36 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:36 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:36 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:37 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:37 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:37 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:37 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:38 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:38 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:38 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:38 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:39 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:39 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:39 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:39 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:40 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:40 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:41 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:41 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:41 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:41 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:42 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:42 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:43 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:43 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:43 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:43 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:43 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:43 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:44 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:44 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:45 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:45 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:45 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:45 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:46 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:46 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:46 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:46 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:48 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:48 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:48 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:48 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:48 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:48 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:48 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:48 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:49 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:49 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:50 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:50 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:50 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:50 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:52 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:52 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:52 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:52 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:53 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:53 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:54 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:54 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:54 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:54 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:54 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:54 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:55:55 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:56 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:55:56 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:56 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:55:56 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:56 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:55:57 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:57 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:55:58 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:55:58 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:55:59 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:55:59 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:55:59 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:59 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:55:59 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:59 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:55:59 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:55:59 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:56:00 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:56:01 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_name
+2020-12-28 14:56:01 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:56:01 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: user_pass
+2020-12-28 14:56:01 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:56:01 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: login_button
+2020-12-28 14:56:02 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:56:02 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //img[@alt='Settings']
+2020-12-28 14:56:03 INFO  TestBase:99 - MouseOver Performed On WebElement
+2020-12-28 14:56:03 INFO  NativeConstructorAccessorImpl:170 - Element Identified : : By.linkText: Users
+2020-12-28 14:56:04 INFO  TestBase:82 - Clicked On WebElement
+2020-12-28 14:56:04 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: fname
+2020-12-28 14:56:04 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:56:04 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: lname
+2020-12-28 14:56:05 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:56:05 INFO  NativeConstructorAccessorImpl:166 - Element Identified : : By.id: email
+2020-12-28 14:56:05 INFO  TestBase:59 - Entered Data in Input Field
+2020-12-28 14:56:05 INFO  NativeConstructorAccessorImpl:182 - Element Identified : : By.xpath: //input[@value='Add User']
+2020-12-28 14:56:05 INFO  TestBase:82 - Clicked On WebElement

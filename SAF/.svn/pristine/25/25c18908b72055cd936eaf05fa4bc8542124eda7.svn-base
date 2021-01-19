@@ -1,0 +1,10 @@
+2016-08-08 13:41:06 INFO  NativeConstructorAccessorImpl:103 - Browser is : : IE
+2016-08-08 13:41:11 INFO  NativeConstructorAccessorImpl:115 - Internet Explorer Browser Invoked
+2016-08-08 13:41:12 INFO  NativeConstructorAccessorImpl:168 - Element Identified : : By.id: Email
+2016-08-08 13:41:14 INFO  TestGmail:61 - Entered Data in Input Field
+2016-08-08 13:41:14 INFO  NativeConstructorAccessorImpl:168 - Element Identified : : By.id: next
+2016-08-08 13:41:15 INFO  TestGmail:87 - Clicked On WebElement
+2016-08-08 13:41:15 INFO  NativeConstructorAccessorImpl:168 - Element Identified : : By.id: Passwd
+2016-08-08 13:41:17 INFO  TestGmail:61 - Entered Data in Input Field
+2016-08-08 13:41:17 INFO  NativeConstructorAccessorImpl:168 - Element Identified : : By.id: signIn
+2016-08-08 13:41:19 INFO  TestGmail:87 - Clicked On WebElement
